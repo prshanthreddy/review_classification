@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+wordcloud
+nltk
+scikit-learn==1.2.2
+joblib
+gradio
